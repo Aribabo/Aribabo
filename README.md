@@ -1,20 +1,11 @@
-# 🍀 이정흔의 깃허브 🍀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4fc79,100:96e6a1&height=200&section=header&text=🍀&nbsp;Jeongheun's&nbsp;Github&nbsp🍀&fontSize=40&fontColor=003300&fontAlignY=40" />
 
-
- 
-### 📧 E-mail 
-<p>
-    <img src="https://img.shields.io/badge/wjdgms1004@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</p>
-
-### 📑 Portfolio
-
-<p>
+# 📑 Portfolio 📑 
+<span>
   <a href="https://www.notion.so/e6990fd2cf3b4bb0991684ff1cf267e0" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
-</p>
+</span>
 
 
 # 🌟 Main Skills 🌟
@@ -75,4 +66,8 @@
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 </p>
+
+# 📊 STATS 📊
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aribabo&layout=compact"><br><br>
 
