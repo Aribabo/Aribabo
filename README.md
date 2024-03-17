@@ -4,8 +4,8 @@
 
 
 <span>
-  <a href="https://www.notion.so/e6990fd2cf3b4bb0991684ff1cf267e0" target="_blank">
-    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
+  <a href="https://water-reaper-b25.notion.site/e6990fd2cf3b4bb0991684ff1cf267e0" target="_blank">
+    <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black" width = 150>
   </a>
 </span>
 
