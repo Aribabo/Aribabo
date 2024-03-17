@@ -4,7 +4,7 @@
 
 
 <span>
-  <a href="https://water-reaper-b25.notion.site/e6990fd2cf3b4bb0991684ff1cf267e0" target="_blank">
+  <a href="https://aribabo.notion.site/399066a49983499c9a259bb3bf7b784d" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black" width = 150>
   </a>
 </span>
