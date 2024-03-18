@@ -53,8 +53,5 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 </p>
 
-# 📊 STATS 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aribabo&layout=compact"><br><br>
 
