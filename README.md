@@ -10,7 +10,7 @@
 </span>
 
 
-# 🌟 Main Skills 
+# 🌟 Skills 
 
 ### AI
   <p>
@@ -32,7 +32,7 @@
 </p>
 
 
-# ⚡ Sub Skills 
+### Web 
 
 
 <p>
@@ -44,7 +44,7 @@
 
 </p>
 
-# 🔎 Tools 
+### Tools 
 <p>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>&nbsp;&nbsp;
